@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacthookstodoapp/static/css/main.9934ba7a.chunk.css",
+    "main.js": "/reacthookstodoapp/static/js/main.10c730ac.chunk.js",
+    "main.js.map": "/reacthookstodoapp/static/js/main.10c730ac.chunk.js.map",
+    "runtime-main.js": "/reacthookstodoapp/static/js/runtime-main.5193346e.js",
+    "runtime-main.js.map": "/reacthookstodoapp/static/js/runtime-main.5193346e.js.map",
+    "static/js/2.daf91719.chunk.js": "/reacthookstodoapp/static/js/2.daf91719.chunk.js",
+    "static/js/2.daf91719.chunk.js.map": "/reacthookstodoapp/static/js/2.daf91719.chunk.js.map",
+    "static/js/3.2d10b565.chunk.js": "/reacthookstodoapp/static/js/3.2d10b565.chunk.js",
+    "static/js/3.2d10b565.chunk.js.map": "/reacthookstodoapp/static/js/3.2d10b565.chunk.js.map",
+    "index.html": "/reacthookstodoapp/index.html",
+    "static/css/main.9934ba7a.chunk.css.map": "/reacthookstodoapp/static/css/main.9934ba7a.chunk.css.map",
+    "static/js/2.daf91719.chunk.js.LICENSE.txt": "/reacthookstodoapp/static/js/2.daf91719.chunk.js.LICENSE.txt",
+    "static/media/todo.975e4dd4.svg": "/reacthookstodoapp/static/media/todo.975e4dd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5193346e.js",
+    "static/js/2.daf91719.chunk.js",
+    "static/css/main.9934ba7a.chunk.css",
+    "static/js/main.10c730ac.chunk.js"
+  ]
+}
